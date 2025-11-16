@@ -1,11 +1,11 @@
 ## **MQWorld: An MQTT-Based Multi-User Visualization in Java Swing**
 
+**MQWorld** is a lightweight, multi-user 2D virtual space where each client moves across a shared grid in real time using the **MQTT protocol**.  
+Every running instance acts as a player, publishing its position and subscribing to the positions of others. Through a shared MQTT broker, all clients remain synchronized, creating a simple but powerful demonstration of real-time distributed state in Java Swing.
+
 <p align="center">
   <img width="256" alt="MQWorld Logo" src="https://github.com/user-attachments/assets/9daa43d3-9c49-4271-8f12-72e9d1bf631b" />
 </p>
-
-**MQWorld** is a lightweight, multi-user 2D virtual space where each client moves across a shared grid in real time using the **MQTT protocol**.  
-Every running instance acts as a player, publishing its position and subscribing to the positions of others. Through a shared MQTT broker, all clients remain synchronized, creating a simple but powerful demonstration of real-time distributed state in Java Swing.
 
 > [!NOTE]
 >
