@@ -6,10 +6,7 @@ It’s designed for **CSC 509 students** to explore software engineering tools a
 
 ## 🚀 Getting Started
 
-### 1️⃣ Pull the image
-```bash
-docker pull mscjaviergs/csc509:latest
-```
+### 1️⃣ Download the files in tmp folder
 
 ### 2️⃣ Run the container
 ```bash
