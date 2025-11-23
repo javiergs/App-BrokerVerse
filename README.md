@@ -20,26 +20,12 @@ It demonstrates the publish–subscribe pattern using the Eclipse Paho MQTT clie
 -   Automatic reconnection and MQTT session management.\
 -   Easily extensible.
 
-## 📦 Prerequisites
-
--   Java 11 or higher\
--   Apache Maven\
--   Internet connection or a local MQTT broker
-
-## 🛠 Getting Started
-
-### 1. Clone and build
-
-    git clone https://github.com/javiergs/App-MQworld.git
-    cd App-MQworld
-    mvn clean package
-
-### 2. Run the application
+## 🛠 Run the application
 
     java -jar target/MQWorld-1.0.jar player1
     java -jar target/MQWorld-1.0.jar player2
 
-### 3. Controls
+## 🕹️ Controls
 
   Key   Action
   ----- ------------
@@ -47,11 +33,6 @@ It demonstrates the publish–subscribe pattern using the Eclipse Paho MQTT clie
   ↓     Move Down
   ←     Move Left
   →     Move Right
-
-## 🔧 Configuration
-
-Adjust settings such as broker URL, topic, and visuals in the
-configuration files.
 
 ## 📁 Project Structure
 
@@ -61,7 +42,3 @@ configuration files.
 -   Player.java -- player model\
 -   Publisher.java -- MQTT publisher\
 -   Subscriber.java -- MQTT subscriber
-
-## 📄 License
-
-MIT License.
