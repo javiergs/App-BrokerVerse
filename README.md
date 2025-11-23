@@ -11,13 +11,11 @@ It demonstrates the publish–subscribe pattern using the Eclipse Paho MQTT clie
 
 ## 🚀 Features
 
--   MQTT publish--subscribe architecture using Paho.\
--   Real‑time synchronization of multiple clients in the same shared
-    "world".\
--   Lightweight Java Swing GUI.\
--   Thread‑safe "Blackboard" shared‑memory model separating model, view,
-    and controller.\
--   Automatic reconnection and MQTT session management.\
+-   MQTT publish--subscribe architecture using Paho.
+-   Real‑time synchronization of multiple clients in the same shared "world".
+-   Lightweight Java Swing GUI.
+-   Thread‑safe "Blackboard" shared‑memory model separating model, view, and controller.
+-   Automatic reconnection and MQTT session management.
 -   Easily extensible.
 
 ## 🛠 Run the application
@@ -36,9 +34,9 @@ It demonstrates the publish–subscribe pattern using the Eclipse Paho MQTT clie
 
 ## 📁 Project Structure
 
--   Main.java -- entry point\
--   Blackboard.java -- shared model\
--   WorldPanel.java -- renderer\
--   Player.java -- player model\
--   Publisher.java -- MQTT publisher\
+-   Main.java -- entry point
+-   Blackboard.java -- shared model
+-   WorldPanel.java -- renderer
+-   Player.java -- player model
+-   Publisher.java -- MQTT publisher
 -   Subscriber.java -- MQTT subscriber
