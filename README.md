@@ -1,3 +1,6 @@
+![Static Badge](https://img.shields.io/badge/author-javiergs-orange)
+![GitHub repo size](https://img.shields.io/github/repo-size/CSC3100/Tool-PlantUML)
+
 <p align="left">
   <img width="100" alt="MQWorld Logo" src="https://github.com/user-attachments/assets/9daa43d3-9c49-4271-8f12-72e9d1bf631b" />
 </p>
