@@ -1,9 +1,17 @@
-A simple Java Swing application where multiple instances connect to a shared virtual grid and publish or receive each other’s positions in real time via MQTT.
-It demonstrates the publish–subscribe pattern using the Eclipse Paho MQTT client library and a public MQTT broker. It also serves as a teaching tool for IoT and network-messaging courses, showing how devices share state through topics. Additionally, it offers a fun testbed for experimentation—change the topic, swap the broker, adjust the visuals, scale the world, or extend the logic however you like.
-
 <p align="center">
-  <img width="256" alt="MQWorld Logo" src="https://github.com/user-attachments/assets/9daa43d3-9c49-4271-8f12-72e9d1bf631b" />
+  <img width="200" alt="MQWorld Logo" src="https://github.com/user-attachments/assets/9daa43d3-9c49-4271-8f12-72e9d1bf631b" />
 </p>
+
+A simple Java Swing application where multiple instances connect to a shared virtual grid and publish or receive each other’s positions in real time via MQTT.
+It demonstrates the **publish–subscribe pattern** using the Eclipse Paho MQTT client library and a public MQTT broker.  
+It serves as a **teaching tool** for IoT, distributed systems, and network-messaging courses by showing how devices share state through MQTT topics.
+
+MQWorld is an **experimentation sandbox**:
+- Change the topic structure  
+- Swap the broker  
+- Adjust the visuals  
+- Scale the world  
+- Extend the logic with new agents or interactions  
 
 ## 🚀 Features
 
